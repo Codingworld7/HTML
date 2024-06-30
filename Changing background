@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <body style="background-color: slateblue "> 
+    <h1 style="color:maroon;"> Timetable</h1>
+    <ul > 
+      <li> 9:30 to 10:30-learn english</li>
+      <li> 11:00 to 12:00-learn html</li>
+      <li> 1:00 to 1:30-practise html codes</li>
+      <li> 5:00 to 5:30-practise english</li>
+      <li> 6:00 to 6:30-practise english speaking</li>
+    </ul>
+  </body>
+</html>
