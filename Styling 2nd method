@@ -1,0 +1,22 @@
+<html> 
+  <head> 
+     <title> CSS EXAMPLE </title>
+       <style>
+          h1{ 
+              color:brown;
+              background: powderblue ;
+              font-size: 25px;
+           }
+          p{
+             color:black;
+             background-color:powderblue;
+             font-size: 14px;
+          }
+       </style>
+  </head>
+     <body style="background-color:powderblue;">
+         <h1><b>quotation</b> </h1>
+         <p> Put god first and Believe in yourself </p>
+     </body>
+</html>
+
