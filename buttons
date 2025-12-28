@@ -1,0 +1,27 @@
+<style>
+.Back-button {
+ margin-top: 8px;
+ padding-left: 8px;
+ padding-right: 8px;
+ font-size: 16px;
+}
+.search-results {
+margin-left: 4px;
+margin-right: 4px;
+font-size: 18px;
+}
+.Next-button {
+ margin-top: 8px;
+ padding-left: 8px;
+ padding-right: 8px;
+ font-size: 16px;
+}
+</style>
+<button class="Back-button">back</button>
+<a class="search-results" href="https://google.com">1</a>
+<a class="search-results" href="https://google.com">2</a>
+<a class="search-results" href="https://google.com">3</a>
+<a class="search-results" href="https://google.com">4</a>
+<a class="search-results" href="https://google.com">5</a>
+<a class="search-results" href="https://google.com">6</a>
+<button class="Next-button">Next</button> 
