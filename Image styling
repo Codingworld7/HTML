@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Image</title>
+        <style>
+            .leaf-img {
+                width : 300px;
+                margin-top: 300px;
+                margin-bottom: 600px;
+                margin-left: 100px;
+                border-radius: 50%;
+                border-image: center;
+                border-color: rgb(73, 150, 96);
+                border-style: solid;
+            }
+            
+            
+        </style>
+        
+    </head>
+    <body>
+        <img class="leaf-img"  src="thumbnails/snoopy.luck.jpg">
+        
+    </body>
+</html>
