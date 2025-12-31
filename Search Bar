@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>search bar</title>
+        <style>
+            .search-box{
+                border-radius: 6px;
+                margin-top: 50px;
+                margin-left: 50px;
+                margin-right: 50px;
+                border: none;
+                border-style: outset;
+                /*border-style: rigid / none/outset/inset/dashe/dotted/solid;
+               border-style: groove (when you click on the search bar the border will get bolder)*/
+            }
+        </style>
+    </head>
+    <body>
+        <input class="search-box" type="text" placeholder="search">
+    </body>
+</html>
