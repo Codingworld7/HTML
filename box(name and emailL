@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>box</title>
+        <style>
+            .box-style {
+                display: block;
+                margin-bottom: 10px;
+                margin-left: 10px;
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="box-style">
+            <input type="text" placeholder="Name">
+
+        </div>
+        <div class="box-style">
+            <input type="text" placeholder="Email">
+        </div>
+        
+        
+
+
+    </body>
+</html>
