@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SignUp</title>
+        <style>
+            .name{
+                display: inline-block;
+                margin-top: 20px;
+                margin-right: 8px;
+                margin-bottom: 10px;
+                width: 150px;
+
+            }
+            .Email{
+                
+                width: 310px;
+                margin-bottom: 10px;
+                padding: 5px;
+            }
+            .SignUp{
+                background-color: rgb(16, 141, 213);
+                color:white;
+                font-size: medium;
+                width: 325px;
+                padding-top: 10px;
+                padding-bottom:10px;
+                padding-left: 50px;
+                padding-right: 50px;
+                border: none;
+                border-radius: 8px;
+                
+            }
+        </style>
+    </head>  
+    <body>
+        <div>
+            <input class="name" type="text" placeholder="First Name">
+            <input class="name" type="text" placeholder="Last Name">
+        </div>
+        <div>
+            <input  class="Email"  type="text" placeholder="Email">
+        </div>    
+        <div >
+             <button class="SignUp">Sign Up</button>
+
+        </div>    
+    </body>  
+</html>    
