@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Google search box </title>
+        
+        <style>
+            .style {
+                font-size: 15px;
+                width: 500px;
+                border: none;
+                padding-top: 12px;
+            
+                padding-bottom: 12px;
+                padding-left: 5px;
+                padding-right: 5px;
+                border-radius: 30px;
+                box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+                margin-top: 2opx;
+                margin-left: 20px;
+               
+    
+            }
+            .image{
+                width: 300px; 
+                
+                object-position: centre;
+                display: block;
+                margin-left: 100px;
+
+            }
+        </style>
+        
+    </head>
+    <body>
+        <img class="image"  src="Google.jpg">
+        <input class="style"  type="text" placeholder=" Search Google or type a URL">
+         
+        
+    </body>
+</html>
