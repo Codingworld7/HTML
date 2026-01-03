@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SquareBox</title>
+    </head>
+    <body>
+        
+            <div style="width:100px; height:100px; background:green; margin-left:30%; margin-top:30%;  "></div>
+    </body>
+</html>
