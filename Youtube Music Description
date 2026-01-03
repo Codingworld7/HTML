@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Youtube music</title>
+    </head>
+    <body>
+        <div style=" height:120px; border: 200px; background-color:black; padding-top:5px; padding-left: 10px;">
+            <p style="color: white; font-size:20px; font-family:Arial;">Install Youtube Music</p>
+            <p style="color: rgb(173, 166, 166); width:300px; font-family:Arial; ">Add Youtube Music to your Desktop for quick and easy access</p>
+        </div>
+
+    </body>
+</html>
